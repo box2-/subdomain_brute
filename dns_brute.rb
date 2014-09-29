@@ -3,6 +3,7 @@
 # Are input arguments at paths to 2 input files:
 #   1) a list of domain names to attempt brute on
 #   2) our dictionary file of subdomains to attempt
+#   And one output file path
 
 require 'resolv'
 
